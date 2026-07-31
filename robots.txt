@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lwppaintingdecorating.co.uk/sitemap.xml
